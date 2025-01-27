@@ -208,3 +208,5 @@ Here's what's coming in future releases:
 - Performance optimization tools
 - CLI tool for project scaffolding
 
+
+**Repository Views** ![Views](https://profile-counter.glitch.me/endly/count.svg)
